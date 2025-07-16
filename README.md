@@ -23,7 +23,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 - Used conditional formatting and chart styles to highlight trends
 
 ![Pivot Chart Screenshot](pivot-chart.png)
-![Map Visualization](map-visual.png)
+![Map Visualization](Geo_Sales_by_State.png)
 
 ## 🧠 Key Insights
 
