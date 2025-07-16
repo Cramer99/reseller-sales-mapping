@@ -22,7 +22,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 - Built a **map chart** to display which states had the highest number of orders
 - Used conditional formatting and chart styles to highlight trends
 
-![Pivot Chart Screenshot](pivot-chart.png)
+![Pivot Chart Screenshot](Pivot_Sales_by_State.png)
 ![Map Visualization](Geo_Sales_by_State.png)
 
 ## 🧠 Key Insights
