@@ -27,7 +27,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 
 ## 🧠 Key Insights
 
-- Top-performing states included [California, Florida, New York, Illinois] 
+- Top-performing states included California, Florida, New York, Illinois
 - A large percentage of orders came from states in the Northeast
 - Geographic visualizations helped clarify where my strongest customer base is
 
