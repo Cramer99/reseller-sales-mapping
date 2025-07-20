@@ -25,7 +25,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 ![Pivot Chart Screenshot](Pivot_Sales_by_State.png)
 ![Map Visualization](Geo_Sales_by_State.png)
 
-## 🧠 Key Insights
+## Key Insights
 
 - Top-performing states included California, Florida, New York, Illinois
 - A large percentage of orders came from states in the Northeast
@@ -37,7 +37,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 
 ---
 
-## 📁 Files Included
+## Files Included
 
 - `sales_cleaned.csv` – (optional) Clean version of dataset
 - `pivot-chart.png` – Graph of sales by state
@@ -45,7 +45,7 @@ The original dataset included U.S. state abbreviations that were not compatible 
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 - Add monthly or product-category trends
 - Automate state conversion with Python or R
